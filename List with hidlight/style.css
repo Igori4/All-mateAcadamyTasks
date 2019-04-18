@@ -1,0 +1,6 @@
+.selected {
+    background-color: lightgreen;
+}
+ul{
+    cursor: pointer;
+}

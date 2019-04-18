@@ -1,0 +1,21 @@
+
+body {
+    background-color: rgba(193, 13, 193, 0.529);
+}
+.people__table{
+    text-align: center;
+    border: 1px solid black;
+    font-size:16px;
+  }
+  
+
+.people__table th{
+    border: 1px solid black;
+    padding: 0 10px;
+}
+
+.people__table td{
+    border: 2px solid black;
+
+}
+

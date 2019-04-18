@@ -1,0 +1,6 @@
+
+th[data-type="number"]:hover,
+th[data-type="string"]:hover {
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.575);
+}

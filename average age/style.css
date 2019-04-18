@@ -1,0 +1,17 @@
+body{
+    background: rgb(211, 247, 242);
+}
+.people__table{
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    
+  }
+.people__table th{
+    border: 1px solid black;
+    padding: 0 10px;
+}
+.people__table tr, td{
+    border: 1px solid black;
+}

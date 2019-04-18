@@ -1,0 +1,11 @@
+
+.block-with-tabs ul{
+    display: flex;
+    list-style: none;
+}
+.block-with-tabs ul li{
+    margin-right: 10px;
+}
+.context{
+    padding-left: 40px;
+}
